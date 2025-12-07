@@ -15,10 +15,8 @@ FALCON is a representation-guided unlearning framework for Large Language Models
 
 <div align="center">
   <img src="assets/FALCON.png" alt="FALCON Framework" width="800"/>
-  <p><i>Schematic overview of FALCON. The pipeline comprises three stages: parameter selec-
-tion based on mutual information (Step 1); contrastive orthogonal unalignment, which consists of
-contrastive mechanism on both forgetting and retention datasets (Step 2.1) and orthogonal gradient
-conflict resolution (Step 2.2); and model unlearning guided by these components (Step 3).</i></p>
+  <p><i>Schematic overview of FALCON. The pipeline comprises three stages: parameter selection based on mutual information (Step 1); contrastive orthogonal unalignment, which consists of
+contrastive mechanism on both forgetting and retention datasets (Step 2.1) and orthogonal gradient conflict resolution (Step 2.2); and model unlearning guided by these components (Step 3).</i></p>
 </div>
 
 ---
