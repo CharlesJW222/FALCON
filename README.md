@@ -5,9 +5,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-Official implementation of **"FALCON: Fine-grained Activation Manipulation by Contrastive Orthogonal Unalignment for Large Language Model"** accepted at **NeurIPS 2025**.
-
-[📄 Paper](https://arxiv.org/abs/2502.01472) |
+Official implementation of **"FALCON: Fine-grained Activation Manipulation by Contrastive Orthogonal Unalignment for Large Language Model"** accepted at **NeurIPS 2025** which is available at [📄 Paper](https://arxiv.org/abs/2502.01472).
 
 ---
 
