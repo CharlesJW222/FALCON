@@ -11,11 +11,11 @@ Official implementation of **"FALCON: Fine-grained Activation Manipulation by Co
 
 ## 🎯 Overview
 
-FALCON is a novel representation-guided unlearning framework for Large Language Models (LLMs) that addresses the critical challenge of selectively removing undesired knowledge while preserving model utility.
+FALCON is a representation-guided unlearning framework for Large Language Models (LLMs) that addresses the critical challenge of selectively removing undesired knowledge while preserving model utility.
 
 <div align="center">
-  <img src="assets/falcon_overview.png" alt="FALCON Framework" width="800"/>
-  <p><i>FALCON's three-stage pipeline: MI-guided parameter selection, contrastive representation unlearning, and orthogonal gradient conflict resolution.</i></p>
+  <img src="assets/falcon.pdf" alt="FALCON Framework" width="800"/>
+  <p><i>Schematic overview of FALCON: MI-guided parameter selection, contrastive orthogonal unalignment, and model unlearning.</i></p>
 </div>
 
 ---
