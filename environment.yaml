@@ -1,4 +1,4 @@
-name: /LOCAL2/sgjhu13/conda_envs/PEFT
+name: FALCON
 channels:
   - conda-forge
   - defaults
@@ -163,4 +163,4 @@ dependencies:
     - word2number==1.1
     - zetascale==2.7.7
     - zstandard==0.23.0
-prefix: /LOCAL2/sgjhu13/conda_envs/PEFT
+prefix: FALCON
