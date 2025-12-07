@@ -70,7 +70,7 @@ jupyter notebook quick_start.ipynb
 
 ## 📝 Citation
 
-If you find FALCON useful in your research, please cite:
+If you find our paper's idea useful in your research, please cite:
 
 ```bibtex
 @inproceedings{
@@ -82,12 +82,6 @@ If you find FALCON useful in your research, please cite:
   url={https://openreview.net/forum?id=BDKkFwskot}
 }
 ```
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
