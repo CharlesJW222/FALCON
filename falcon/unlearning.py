@@ -1,5 +1,5 @@
 """
-Main training pipeline for unlearning
+Main pipeline for unlearning
 """
 
 import os
