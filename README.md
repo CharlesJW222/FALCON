@@ -7,7 +7,7 @@
 
 Official implementation of **"FALCON: Fine-grained Activation Manipulation by Contrastive Orthogonal Unalignment for Large Language Model"** accepted at **NeurIPS 2025**.
 
-[📄 Paper](https://arxiv.org/abs/2502.01472) | [🌐 Project Page](#) | [📊 Datasets](#datasets)
+[📄 Paper](https://arxiv.org/abs/2502.01472) |
 
 ---
 
