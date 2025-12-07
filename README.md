@@ -104,11 +104,11 @@ The authors do not endorse using this technology for malicious purposes or circu
 
 ---
 
-## 🔗 Related Projects
+## 🔗 Related Projects and Datasets
 
-- [RMU: Representation Misdirection for Unlearning](https://github.com/locuslab/rmu)
-- [TOFU: Task of Fictitious Unlearning](https://github.com/locuslab/tofu)
 - [WMDP: Weapons of Mass Destruction Proxy](https://github.com/centerforaisafety/wmdp)
+- [TOFU: Task of Fictitious Unlearning](https://github.com/locuslab/tofu)
+- [MUSE: Machine Unlearning Six-Way Evaluation](https://github.com/swj0419/muse_bench)
 
 ---
 
