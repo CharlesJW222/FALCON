@@ -1,4 +1,4 @@
-name: FALCON
+name: falcon
 channels:
   - conda-forge
   - defaults
