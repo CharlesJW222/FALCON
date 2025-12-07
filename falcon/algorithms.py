@@ -1,5 +1,5 @@
 """
-Core algorithms: POV generation and loss computation
+POV generation and loss computation
 """
 
 import torch
