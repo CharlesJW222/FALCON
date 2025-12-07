@@ -113,5 +113,5 @@ The authors do not endorse using this technology for malicious purposes or circu
 
 <div align="center">
   <p>⭐ Star us on GitHub if you find FALCON useful!</p>
-  <p>Made with ❤️ by the University of Liverpool AI Safety Team</p>
+  <p>Made with ❤️ by the University of Liverpool TICPS Team</p>
 </div>
