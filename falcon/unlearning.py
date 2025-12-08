@@ -145,7 +145,7 @@ def execute_unlearning(
                 train_forget_acts.size(1),
                 -1
             )
-            steering_scaled = steering_expanded * 1 
+            steering_scaled = steering_expanded * steer_coeff 
             
             # Compute unlearning loss
             unlearn_loss = compute_contrastive_loss(
