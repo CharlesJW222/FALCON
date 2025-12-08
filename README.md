@@ -1,4 +1,4 @@
-# FALCON: Fine-grained Activation Manipulation by Contrastive Orthogonal Unalignment
+# FALCON: Fine-grained activation manipulation by contrastive orthogonal unalignment for large language model
 
 [![NeurIPS 2025](https://img.shields.io/badge/NeurIPS-2025-blue.svg)](https://neurips.cc/)
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg?v=2)](https://www.python.org/downloads/)
