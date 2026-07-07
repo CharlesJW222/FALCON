@@ -74,13 +74,16 @@ jupyter notebook quick_start.ipynb
 If you find our paper's idea useful in your research, please cite:
 
 ```bibtex
-@inproceedings{
-  hu2025falcon,
-  title={{FALCON}: Fine-grained Activation Manipulation by Contrastive Orthogonal Unalignment for Large Language Model},
-  author={Jinwei Hu and Zhenglin Huang and Xiangyu Yin and Wenjie Ruan and Guangliang Cheng and Yi Dong and Xiaowei Huang},
-  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
-  year={2025},
-  url={https://openreview.net/forum?id=BDKkFwskot}
+@inproceedings{NEURIPS2025_9408564a,
+ author = {Hu, Jinwei and Huang, Zhenglin and Yin, Xiangyu and Ruan, Wenjie and Cheng, Guangliang and Dong, Yi and Huang, Xiaowei},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {D. Belgrave and C. Zhang and H. Lin and R. Pascanu and P. Koniusz and M. Ghassemi and N. Chen},
+ pages = {102210--102232},
+ publisher = {Curran Associates, Inc.},
+ title = {FALCON: Fine-grained Activation Manipulation by Contrastive Orthogonal Unalignment for Large Language Model},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2025/file/9408564a4229f4a933ac9bd09a29ee96-Paper-Conference.pdf},
+ volume = {38},
+ year = {2025}
 }
 ```
 
